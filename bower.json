@@ -1,7 +1,7 @@
 {
   "name": "tungsten-framework",
   "version": "0.0.0",
-  "homepage": "https://github.com/bjankord/Tungsten-Framework",
+  "homepage": "https://github.com/bjankord/tungsten-framework",
   "description": "A composable, mobile-first, responsive front-end framework.",
   "keywords": [
     "tungsten",
