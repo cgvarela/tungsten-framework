@@ -1,0 +1,27 @@
+{
+  "name": "Tungsten",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bjankord/Tungsten-Framework",
+  "description": "A composable, mobile-first, responsive front-end framework.",
+  "keywords": [
+    "tungsten",
+    "framework",
+    "responsive",
+    "css",
+    "js",
+    "mobile-first",
+    "composible",
+    "oocss"
+  ],
+  "authors": [
+    "Brett Jankord"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
